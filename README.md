@@ -20,3 +20,13 @@ Meeting room manager - Back-End
 Link Heroku
 
 https://app-apimeetingroom.herokuapp.com/api/v1/rooms
+
+
+JSON templet:
+
+{
+    "name": "Test JSON",
+    "date": "25/01/2022",
+    "startHour": "20hs",
+    "endHour": "21hs" 
+}
